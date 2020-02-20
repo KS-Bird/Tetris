@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kongdol\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kongdol\\.nuget\\packages"
+    ]
+  }
+}
